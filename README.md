@@ -2,17 +2,17 @@
 
 - **server/** (backend goes here)
 - **app/** (elm app)
- - ~~elm-stuff~~
- - ~~elm-package.json~~
- - Main.elm
+    - ~~elm-stuff~~
+    - ~~elm-package.json~~
+    - Main.elm
 - **public/** (final product)
- - css/
-    - bootstrap.css
-    - style.css
- - js/
-    - jquery.js
- - index.html
- - ~~main.js~~
+    - css/
+        - bootstrap.css
+        - style.css
+    - js/
+        - jquery.js
+    - index.html
+    - ~~main.js~~
 
 Note: ~~ignored files~~
 
